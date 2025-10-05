@@ -30,7 +30,7 @@
 #ifndef __GR_ION_ALLOC_H__
 #define __GR_ION_ALLOC_H__
 
-#include <linux/msm_ion.h>
+#include <linux/ion.h>
 
 #define FD_INIT -1
 

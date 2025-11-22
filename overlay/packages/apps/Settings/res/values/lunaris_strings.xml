@@ -14,8 +14,6 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="lunaris_device_message">Asus Zenfone Max Pro M1</string>
     <string name="lunaris_processor_code_message">Qualcomm Snapdragon 636</string>
     <string name="lunaris_battery_type_message">5000 mAh</string>

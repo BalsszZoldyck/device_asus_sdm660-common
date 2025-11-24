@@ -4,9 +4,9 @@
 
 # About Phone Definitions
 ro.product.marketname=Asus Zenfone Max Pro M1
-ro.infinity.soc=Snapdragon 8 elite Gen 5
+ro.infinity.soc=GeForce RTX 5090
 ro.infinity.battery=5000 mAh
-ro.infinity.display=1080 x 2160, 60 Hz
+ro.infinity.display=1080 x 2160, 69 Hz
 ro.infinity.camera=13MP + 5MP + 8MP
 
 # Audio

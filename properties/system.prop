@@ -3,7 +3,7 @@
 #
 
 # Maintainer
-ro.paranoid.maintainer=BllsszzXD
+ro.lunaris.maintainer=BllsszzXD
 
 # Audio
 audio.sys.noisy.broadcast.delay=600
